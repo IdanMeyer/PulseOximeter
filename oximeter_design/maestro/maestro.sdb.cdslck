@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      idanmeyer
+HostName                       micron3.eng.tau.ac.il
+ProcessIdentifier              20202
+ProcessCreationTime_UTC        1724843888
+ProcessCreationTime_Readable   Wed Aug 28 14:18:08 2024 IDT
+AppIdentifier                  /tools/cadence/IC/06.18.290/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /project/tsmc65/users/idanmeyer/ws/oxymeter_idan/oximeter_design/maestro/maestro.sdb
+TimeEditLocked                 Wed Aug 28 14:18:37 2024 IDT

@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      idanmeyer
+HostName                       micron3.eng.tau.ac.il
+ProcessIdentifier              18718
+ProcessCreationTime_UTC        1724843845
+ProcessCreationTime_Readable   Wed Aug 28 14:17:25 2024 IDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /project/tsmc65/users/idanmeyer/ws/oxymeter_idan/oximeter_design/schematic/sch.oa.cdslck
+TimeEditLocked                 Wed Aug 28 14:17:43 2024 IDT

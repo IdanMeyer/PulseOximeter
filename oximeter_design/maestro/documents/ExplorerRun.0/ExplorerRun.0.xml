@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="datasheetMainDoc.xsl"?>
+<ROOT dsUserName="idanmeyer" dsCreationDateTime="5 Aug 2024 00:47:34" runMode="Single Run, Sweeps and Corners" fnameprefix="ExplorerRun.0" dsAuthorName="Idan Meyer" parasiticsRunMode="None" enableCpkPerc="disEnable" name="ExplorerRun.0" viewMode="explorer">
+    <SETUPSUMMARY cell="oximeter_design" lib="oxymeter_idan" view="maestro"/>
+    <SCHDIAGRAMS exportPath="/project/tsmc65/users/idanmeyer/ws/oxymeter_idan/oximeter_design/maestro/documents/ExplorerRun.0/"/>
+    <CORNERS/>
+    <VARS>
+        <VAR name="alpha">0.5</VAR>
+    </VARS>
+    <MODELGROUPS/>
+    <TESTS>
+        <TEST cell="oximeter_design" lib="oxymeter_idan" simultor="spectre" state="ExplorerRun.0" view="schematic">oxymeter_idan_oximeter_design_1</TEST>
+    </TESTS>
+    <RESULTSSUMMARY/>
+    <TESTDOCS>
+        <TESTDOC testFileName="oxymeter_idan_oximeter_design_1" testName="oxymeter_idan_oximeter_design_1"/>
+    </TESTDOCS>
+</ROOT>

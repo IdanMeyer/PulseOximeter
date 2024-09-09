@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="datasheetTestDoc.xsl"?>
+<ROOT dsUserName="idanmeyer" dsCreationDateTime="5 Aug 2024 00:47:39" runMode="Single Run, Sweeps and Corners" mainfnameprefix="ExplorerRun.0" dsAuthorName="Idan Meyer" parasiticsRunMode="None" enableCpkPerc="disEnable" name="oxymeter_idan_oximeter_design_1">
+    <RESULTSSUMMARY/>
+    <CORNERSPECS/>
+    <RESULTS>
+        <INPUTPARAMS>
+            <INPUTPARAM id="1" testName="oxymeter_idan_oximeter_design_1" name="alpha">
+                <DESIGNPOINT dpId="1">
+                    <VALUE pid="1" corner="Nominal">300m</VALUE>
+                </DESIGNPOINT>
+                <DESIGNPOINT dpId="2">
+                    <VALUE pid="2" corner="Nominal">300m</VALUE>
+                </DESIGNPOINT>
+                <DESIGNPOINT dpId="3">
+                    <VALUE pid="3" corner="Nominal">500m</VALUE>
+                </DESIGNPOINT>
+                <DESIGNPOINT dpId="4">
+                    <VALUE pid="4" corner="Nominal">500m</VALUE>
+                </DESIGNPOINT>
+                <DESIGNPOINT dpId="5">
+                    <VALUE pid="5" corner="Nominal">700m</VALUE>
+                </DESIGNPOINT>
+                <DESIGNPOINT dpId="6">
+                    <VALUE pid="6" corner="Nominal">700m</VALUE>
+                </DESIGNPOINT>
+                <DESIGNPOINT dpId="7">
+                    <VALUE pid="7" corner="Nominal">900m</VALUE>
+                </DESIGNPOINT>
+                <DESIGNPOINT dpId="8">
+                    <VALUE pid="8" corner="Nominal">900m</VALUE>
+                </DESIGNPOINT>
+            </INPUTPARAM>
+            <INPUTPARAM id="2" testName="oxymeter_idan_oximeter_design_1" name="finger">
+                <DESIGNPOINT dpId="1">
+                    <VALUE pid="1" corner="Nominal">0</VALUE>
+                </DESIGNPOINT>
+                <DESIGNPOINT dpId="2">
+                    <VALUE pid="2" corner="Nominal">1</VALUE>
+                </DESIGNPOINT>
+                <DESIGNPOINT dpId="3">
+                    <VALUE pid="3" corner="Nominal">0</VALUE>
+                </DESIGNPOINT>
+                <DESIGNPOINT dpId="4">
+                    <VALUE pid="4" corner="Nominal">1</VALUE>
+                </DESIGNPOINT>
+                <DESIGNPOINT dpId="5">
+                    <VALUE pid="5" corner="Nominal">0</VALUE>
+                </DESIGNPOINT>
+                <DESIGNPOINT dpId="6">
+                    <VALUE pid="6" corner="Nominal">1</VALUE>
+                </DESIGNPOINT>
+                <DESIGNPOINT dpId="7">
+                    <VALUE pid="7" corner="Nominal">0</VALUE>
+                </DESIGNPOINT>
+                <DESIGNPOINT dpId="8">
+                    <VALUE pid="8" corner="Nominal">1</VALUE>
+                </DESIGNPOINT>
+            </INPUTPARAM>
+            <INPUTPARAM id="3" testName="oxymeter_idan_oximeter_design_1" name="temperature">
+                <DESIGNPOINT dpId="1">
+                    <VALUE pid="1" corner="Nominal">25</VALUE>
+                </DESIGNPOINT>
+                <DESIGNPOINT dpId="2">
+                    <VALUE pid="2" corner="Nominal">25</VALUE>
+                </DESIGNPOINT>
+                <DESIGNPOINT dpId="3">
+                    <VALUE pid="3" corner="Nominal">25</VALUE>
+                </DESIGNPOINT>
+                <DESIGNPOINT dpId="4">
+                    <VALUE pid="4" corner="Nominal">25</VALUE>
+                </DESIGNPOINT>
+                <DESIGNPOINT dpId="5">
+                    <VALUE pid="5" corner="Nominal">25</VALUE>
+                </DESIGNPOINT>
+                <DESIGNPOINT dpId="6">
+                    <VALUE pid="6" corner="Nominal">25</VALUE>
+                </DESIGNPOINT>
+                <DESIGNPOINT dpId="7">
+                    <VALUE pid="7" corner="Nominal">25</VALUE>
+                </DESIGNPOINT>
+                <DESIGNPOINT dpId="8">
+                    <VALUE pid="8" corner="Nominal">25</VALUE>
+                </DESIGNPOINT>
+            </INPUTPARAM>
+        </INPUTPARAMS>
+        <TESTOUTPUTS>
+            <TESTOUTPUT id="1" testname="oxymeter_idan_oximeter_design_1">
+                <OUTPUTPARAMS/>
+            </TESTOUTPUT>
+        </TESTOUTPUTS>
+    </RESULTS>
+    <WAVEFORMS>
+        <WAVEFORM isWaveQuickPlot="true" fileName="dsImg_window_60.1.png" test="oxymeter_idan_oximeter_design_1"/>
+        <WAVEFORM isWaveQuickPlot="true" fileName="dsImg_window_60.2.png" test="oxymeter_idan_oximeter_design_1"/>
+        <WAVEFORM isWaveQuickPlot="true" fileName="dsImg_window_63.1.png" test="oxymeter_idan_oximeter_design_1"/>
+        <WAVEFORM isWaveQuickPlot="true" fileName="dsImg_window_63.2.png" test="oxymeter_idan_oximeter_design_1"/>
+    </WAVEFORMS>
+</ROOT>

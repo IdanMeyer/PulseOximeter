@@ -1,0 +1,3 @@
+projectDir = '"./simulation"
+designInfo = '("oxymeter_idan" "clk_gen" "schematic" "spectre")
+descriptionText = "None"
